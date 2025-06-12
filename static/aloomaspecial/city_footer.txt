@@ -1,0 +1,44 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px;">Frequently Asked Questions in #State</h2>
+                <h4 class="template4 palooma">Do you accept hazardous waste in your dumpster?
+                </h4>
+                <p>No! Dohner Dumpster Rental does not accept hazardous waste in dumpsters because we do not have the specialized equipment or trained professionals to handle it. This is to safeguard human health and protect the environment.</p>
+                <h4 class="template4 palooma">Can I rent your dumpsters outside of #State?
+                </h4>
+                <p>Yes, absolutely! We offer dumpster rental services beyond #State. Our company has locations across all 50 states, each ready to provide fast, reliable service for any type of cleanout or waste disposal project.</p>
+                <h4 class="template4 palooma">What happens if I overfill my dumpster?
+                </h4>
+                <p>If you overfill the dumpster beyond the weight limit, an additional fee of $50 per extra ton will be charged. To avoid overage fees, we recommend keeping waste within the fill line and staying within the weight limit specified in your rental agreement.</p>
+                <h4 class="template4 palooma">How long can I rent a dumpster for?
+                </h4>
+                <p>You can rent a dumpster for as long as you need, as long as you continue to renew your rental plan. Our standard maximum rental period is 28 days per plan, but you can extend your rental by renewing before the end of each period.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
